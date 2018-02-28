@@ -1,0 +1,10 @@
+C:\~~\Kiga\kiga.repository\bin\Debug\netstandard2.0\kiga.repository.deps.json
+C:\~~\Kiga\kiga.repository\bin\Debug\netstandard2.0\kiga.repository.dll
+C:\~~\Kiga\kiga.repository\bin\Debug\netstandard2.0\kiga.repository.pdb
+C:\~~\Kiga\kiga.repository\bin\Debug\netstandard2.0\kiga.domain.dll
+C:\~~\Kiga\kiga.repository\bin\Debug\netstandard2.0\kiga.domain.pdb
+C:\~~\Kiga\kiga.repository\obj\Debug\netstandard2.0\kiga.repository.csproj.CoreCompileInputs.cache
+C:\~~\Kiga\kiga.repository\obj\Debug\netstandard2.0\kiga.repository.AssemblyInfoInputs.cache
+C:\~~\Kiga\kiga.repository\obj\Debug\netstandard2.0\kiga.repository.AssemblyInfo.cs
+C:\~~\Kiga\kiga.repository\obj\Debug\netstandard2.0\kiga.repository.dll
+C:\~~\Kiga\kiga.repository\obj\Debug\netstandard2.0\kiga.repository.pdb

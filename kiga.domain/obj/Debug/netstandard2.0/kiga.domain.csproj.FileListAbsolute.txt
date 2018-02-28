@@ -1,0 +1,8 @@
+C:\~~\Kiga\kiga.domain\bin\Debug\netstandard2.0\kiga.domain.deps.json
+C:\~~\Kiga\kiga.domain\bin\Debug\netstandard2.0\kiga.domain.dll
+C:\~~\Kiga\kiga.domain\bin\Debug\netstandard2.0\kiga.domain.pdb
+C:\~~\Kiga\kiga.domain\obj\Debug\netstandard2.0\kiga.domain.csproj.CoreCompileInputs.cache
+C:\~~\Kiga\kiga.domain\obj\Debug\netstandard2.0\kiga.domain.AssemblyInfoInputs.cache
+C:\~~\Kiga\kiga.domain\obj\Debug\netstandard2.0\kiga.domain.AssemblyInfo.cs
+C:\~~\Kiga\kiga.domain\obj\Debug\netstandard2.0\kiga.domain.dll
+C:\~~\Kiga\kiga.domain\obj\Debug\netstandard2.0\kiga.domain.pdb

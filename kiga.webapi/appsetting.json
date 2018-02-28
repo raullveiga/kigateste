@@ -1,0 +1,11 @@
+{
+  "ConnectionString": {
+    "DefaultConnection": "DataSource=app.db"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  }
+}

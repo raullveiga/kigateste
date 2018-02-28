@@ -1,0 +1,14 @@
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.webapi.deps.json
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.webapi.runtimeconfig.json
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.webapi.runtimeconfig.dev.json
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.webapi.dll
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.webapi.pdb
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.domain.dll
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.repository.dll
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.repository.pdb
+C:\~~\Kiga\kiga.webapi\bin\Debug\netcoreapp2.0\kiga.domain.pdb
+C:\~~\Kiga\kiga.webapi\obj\Debug\netcoreapp2.0\kiga.webapi.csproj.CoreCompileInputs.cache
+C:\~~\Kiga\kiga.webapi\obj\Debug\netcoreapp2.0\kiga.webapi.AssemblyInfoInputs.cache
+C:\~~\Kiga\kiga.webapi\obj\Debug\netcoreapp2.0\kiga.webapi.AssemblyInfo.cs
+C:\~~\Kiga\kiga.webapi\obj\Debug\netcoreapp2.0\kiga.webapi.dll
+C:\~~\Kiga\kiga.webapi\obj\Debug\netcoreapp2.0\kiga.webapi.pdb
