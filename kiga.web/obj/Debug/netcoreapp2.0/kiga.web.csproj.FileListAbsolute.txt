@@ -1,0 +1,12 @@
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.web.deps.json
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.web.dll
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.web.pdb
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.domain.dll
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.repository.dll
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.domain.pdb
+C:\~~\kigateste\kiga.web\bin\Debug\netcoreapp2.0\kiga.repository.pdb
+C:\~~\kigateste\kiga.web\obj\Debug\netcoreapp2.0\kiga.web.csproj.CoreCompileInputs.cache
+C:\~~\kigateste\kiga.web\obj\Debug\netcoreapp2.0\kiga.web.AssemblyInfoInputs.cache
+C:\~~\kigateste\kiga.web\obj\Debug\netcoreapp2.0\kiga.web.AssemblyInfo.cs
+C:\~~\kigateste\kiga.web\obj\Debug\netcoreapp2.0\kiga.web.dll
+C:\~~\kigateste\kiga.web\obj\Debug\netcoreapp2.0\kiga.web.pdb

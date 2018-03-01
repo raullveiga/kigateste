@@ -7,6 +7,9 @@ namespace kiga.domain.Entities{
         [Key]
         public int IdUsuario { get; set; }
         [Required]
+        [StringLength(250)]
+        public string NomeUsuario { get; set; }
+        [Required]
         public string FaceUsuario { get; set; }
     }
 }

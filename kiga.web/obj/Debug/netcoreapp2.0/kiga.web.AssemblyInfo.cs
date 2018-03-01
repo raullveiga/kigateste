@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("kiga.domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("kiga.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("kiga.domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("kiga.domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("kiga.web")]
+[assembly: System.Reflection.AssemblyTitleAttribute("kiga.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
